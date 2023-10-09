@@ -1,10 +1,8 @@
-# Assignment 1: Banking Basics
+# Banking Basics
 
 In this assignment, we will create a **class** that models bank accounts. We will build a constructor, a custom way to display bank account information, as well as the basic operations one can do with an account: Deposit and withdraw money.
 
 ## Provided Code
-
-Clone your repo using this link: [https://classroom.github.com/a/mkX0fhLK](https://classroom.github.com/a/mkX0fhLK)
 
 `main.py` is where you will do the work. It has an incomplete `Account` class where you will have to create 4 methods.
 
@@ -129,9 +127,3 @@ This is a bit tricky, as the withdrawal may or may not work. This is why we will
 | 7. Use of Resources                 | Assignment is fully complete and provides all functionality. If assignment is not fully complete, student attended office hours (or additional help sessions) and/or asked high quality and timely questions on Discord. | Assignment is not fully complete and there is minor evidence of effort to get assistance on assignment (e.g., office hours attendance or Discord discussions). | Assignment is incomplete and no evidence of seeking assistance. |
 | **Correctness (30%)**               |                                                   |                                                    |                                                  |
 | 8. Test Cases                       | Percentage of automated test cases that pass. |||
-
-## Submitting Your Assignment
-
-1. When you are done, `commit` and `push` your code to your remote repository.  (Note: In general, you should commit and push frequently, so that you have a backup of your work, so that there is evidence that you did your on work, and so that you can return to a previous state easily.)
-2. Upload your submission in Gradescope via this link: [https://www.gradescope.com/courses/544003/assignments/2991606](https://www.gradescope.com/courses/544003/assignments/2991606)
-3. Upload the zip archive of your assignment to Anchor below.
